@@ -1,5 +1,5 @@
 -   id: org-hook
     name: org-wide hooks
-    language: python
-    entry: ./run-org-hooks
+    language: script
+    entry: ./run-org-hooks.sh
     verbose: true
